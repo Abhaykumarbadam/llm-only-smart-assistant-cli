@@ -1,5 +1,4 @@
 # LLM-Only Smart Assistant CLI
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Abhaykumarbadam/llm-only-smart-assistant-cli)
 
 A simple command-line assistant powered by the Groq API, utilizing the Llama3-70B model. This assistant is designed to provide clear, step-by-step answers to user queries and logs all interactions for review.
 
