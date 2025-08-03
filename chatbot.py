@@ -62,7 +62,8 @@ def main():
 
     with open("interaction_logs.json", "w") as f:
         json.dump(logs, f, indent=2)
-    print("Session ended. Logs saved to level1_interaction_logs.json")
+    print("Session ended. Logs saved to interaction_logs.json")
 
 if __name__ == "__main__":
     main()
+
